@@ -1,1 +1,3 @@
-"# esj_catcher" 
+一個簡單的esj爬蟲
+
+需要登入後的cookie和第一話的網址
